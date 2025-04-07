@@ -1,0 +1,51 @@
+---
+title: "RAMP_Plots"
+author: "Mrinmoy Chakraborty"
+date: "2025-04-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Include Dependencies
+
+```{r}
+
+
+```
+
+
+## Include RAMP Data
+
+```{r}
+
+# Include CO Data
+
+
+# Include PM Data
+
+
+# Include Campaign Schedule
+
+
+# Extract Data For Each House - CO
+
+
+# Extract Data For Each House - PM2.5
+
+
+```
+
+## Make a plot of CO and PM diurnal (Box)
+
+```{r}
+
+
+```
+
+
+## Make a plot of variability
+
+
